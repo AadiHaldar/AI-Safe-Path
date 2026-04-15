@@ -1,0 +1,6 @@
+{
+  "name": "SafePath AI",
+  "description": "AI-powered urban mobility safety optimizer. Analyzes real-time simulated data to suggest the safest routes for commuters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

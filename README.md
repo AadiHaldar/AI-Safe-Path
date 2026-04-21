@@ -207,23 +207,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🎓 Hackathon Features
-
-This project was built for a hackathon with focus on:
-- ✅ AI-powered safety analysis
-- ✅ Real-time data integration
-- ✅ User-friendly interface
-- ✅ Production-ready code
-- ✅ Comprehensive documentation
-- ✅ Multiple route options
-- ✅ Emergency services integration
-- ✅ Time-based intelligence
-
-## 📞 Support
-
-For issues or questions, please open an issue on GitHub.
-
 ## 🙏 Acknowledgments
 
 - Google Maps Platform for routing and location services
